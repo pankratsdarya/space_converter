@@ -1,0 +1,14 @@
+D:\usefull\source\transfers\transfers\bin\Release\transfers.exe.config
+D:\usefull\source\transfers\transfers\bin\Release\transfers.exe
+D:\usefull\source\transfers\transfers\bin\Release\transfers.pdb
+D:\usefull\source\transfers\transfers\obj\Release\transfers.DateTime.resources
+D:\usefull\source\transfers\transfers\obj\Release\transfers.Form1.resources
+D:\usefull\source\transfers\transfers\obj\Release\transfers.Properties.Resources.resources
+D:\usefull\source\transfers\transfers\obj\Release\transfers.spr1.resources
+D:\usefull\source\transfers\transfers\obj\Release\transfers.spr2.resources
+D:\usefull\source\transfers\transfers\obj\Release\transfers.StarTime.resources
+D:\usefull\source\transfers\transfers\obj\Release\transfers.VKP.resources
+D:\usefull\source\transfers\transfers\obj\Release\transfers.csproj.GenerateResource.Cache
+D:\usefull\source\transfers\transfers\obj\Release\transfers.exe
+D:\usefull\source\transfers\transfers\obj\Release\transfers.pdb
+D:\usefull\source\transfers\transfers\obj\Release\transfers.csprojResolveAssemblyReference.cache
